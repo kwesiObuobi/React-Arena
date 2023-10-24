@@ -1,0 +1,2 @@
+- Take location from user, retrieve its longitude and latitude, then send to open weather
+- Send the coordinates to the weather to get the weather data
